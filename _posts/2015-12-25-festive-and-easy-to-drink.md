@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T18:12:48.427Z'
-dateModified: '2015-12-25T18:10:43.567Z'
+datePublished: '2015-12-25T18:29:56.195Z'
+dateModified: '2015-12-25T18:27:33.610Z'
 title: festive and easy-to-drink
 author: []
+sourcePath: _posts/2015-12-25-festive-and-easy-to-drink.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-25-festive-and-easy-to-drink.md
-published: true
-url: festive-and-easy-to-drink/index.html
-_type: Article
+_type: Blurb
 
 ---
 Descriptions of this _short-lived-stage _(measured in weeks) include: _festive, easy-to-drink, spritzig, nectarous, tangy acidity, has-a-dry-yet-juicy-finish, _as well as, _a luscious aroma._ Layers of complexity and evolvement are clearly absent.
