@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-25T17:11:36.810Z'
-dateModified: '2015-12-25T17:11:06.903Z'
+description: catch phrases
+datePublished: '2015-12-25T18:32:31.304Z'
+dateModified: '2015-12-25T18:32:24.971Z'
 title: 'popular catch phrases:'
 author: []
+sourcePath: _posts/2015-12-25-popular-catch-phrases.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-25-popular-catch-phrases.md
-published: true
-url: popular-catch-phrases/index.html
-_type: Article
+_type: Blurb
 
 ---
 # 
