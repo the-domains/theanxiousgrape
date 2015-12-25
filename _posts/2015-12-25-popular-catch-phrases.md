@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: catch phrases
-datePublished: '2015-12-25T18:32:31.304Z'
-dateModified: '2015-12-25T18:32:24.971Z'
+description: ''
+datePublished: '2015-12-25T18:45:09.661Z'
+dateModified: '2015-12-25T18:40:55.140Z'
 title: 'popular catch phrases:'
 author: []
 sourcePath: _posts/2015-12-25-popular-catch-phrases.md
@@ -22,8 +22,6 @@ publisher:
 _type: Blurb
 
 ---
-# 
-
 # popular catch phrases:
 
 * _Shamelessly immature._
