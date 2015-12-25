@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T18:45:09.661Z'
-dateModified: '2015-12-25T18:40:55.140Z'
+datePublished: '2015-12-25T18:50:15.186Z'
+dateModified: '2015-12-25T18:50:03.804Z'
 title: 'popular catch phrases:'
 author: []
 sourcePath: _posts/2015-12-25-popular-catch-phrases.md
@@ -22,8 +22,6 @@ publisher:
 _type: Blurb
 
 ---
-# popular catch phrases:
-
 * _Shamelessly immature._
 * _Frivolity trumps finesse!_
 * _Embryonic yet engaging!_
