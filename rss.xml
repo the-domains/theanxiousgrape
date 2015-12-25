@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[theanxiousgrape]]></title>
         <description><![CDATA[theanxiousgrape]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theanxiousgrape/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 17:11:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Dec 2015 17:11:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theanxiousgrape/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[popular catch phrases:]]></title>
+            <description><![CDATA[<h1></h1>]]></description>
+            <link>https://thegrid.ai/theanxiousgrape/popular-catch-phrases/index.html</link>
+            <guid isPermaLink="false">5745236e-46b0-4b13-8ce2-e436607ea9c9</guid>
+            <pubDate>Fri, 25 Dec 2015 17:11:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[intro 01]]></title>
             <description><![CDATA[<article><h1>intro 01</h1><p>The Anxious Grape is classified as a vino giovane or vino fresco ... that's Italian for a young, fresh wine worthy of consuming immediately after fermentation ... not weeks ... not days ... but immediately without aging.
 
 </p></article>]]></description>
-            <link>undefinedintro-01/index.html</link>
+            <link>https://thegrid.ai/theanxiousgrape/intro-01/index.html</link>
             <guid isPermaLink="false">82c0d5bb-56c0-4a76-955b-8cbc71c94d2a</guid>
             <pubDate>Fri, 25 Dec 2015 17:11:36 GMT</pubDate>
         </item>
